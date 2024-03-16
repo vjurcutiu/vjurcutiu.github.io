@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 
+title: High Quality Copy
 first_name: Vlad
-middle_name: High Quality Copy
+middle_name:
 last_name: Jurcutiu
 email: vladjurcutiu89@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -121,8 +121,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: A blog about marketing ideas and interesting books.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -174,7 +174,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
