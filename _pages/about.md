@@ -18,8 +18,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my portfolio. My name's Vlad and I have 13 years of experience as a copywriter and one year of experience working as a full stack software developer. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My clients ranged from digital marketing companies to software companies, contractors and several other verticals, including:
+* Digital Destinations
+* Marketing 4 The Future
+* Two Red Crows
+* Appsee
+I'm trained in sales copy, technical and content writing. You can check some examples of my work here.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I place an emphasis on delivering content that achieves its purpose, whether that is to convert, inform or raise a website’s search engine ranking. For a more detailed list of the services I offer and pricing, click here.
+
+If you want to get in touch to discuss a project or ask any questions, send me an email at vladjurcutiu89@gmail.com, or give me a call on +40739420954.
